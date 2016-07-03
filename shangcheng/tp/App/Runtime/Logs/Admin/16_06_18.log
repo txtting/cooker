@@ -1,0 +1,684 @@
+[ 2016-06-18T00:39:23+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001617s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002155s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003151s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:37+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023889s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001339s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:47+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001896s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001496s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:39:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:11+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001455s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:23+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001669s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001336s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001350s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:47+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001518s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001368s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001357s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:11+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001925s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001534s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001943s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:23+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001601s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002048s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001809s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001365s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001444s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001801s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:47+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001918s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001401s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001947s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001683s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:41:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001870s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001681s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001635s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:11+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001520s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001407s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001437s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:23+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001574s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001426s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:47+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001402s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:42:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002092s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:11+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001562s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001434s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001424s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:23+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001686s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001522s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001560s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001595s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001491s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:47+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001836s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001808s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001796s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:43:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001988s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001886s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:11+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:23+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001518s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001547s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002025s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:47+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001351s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001515s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:44:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-06-18T00:45:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001868s ]
+ERR: 无法加载控制器:Email
+

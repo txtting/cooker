@@ -1,0 +1,2557 @@
+[ 2016-06-30T08:50:24+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020827s ]
+NOTIC: [8] Undefined index: admin_id E:\shangcheng\tp\App\Admin\Controller\MyController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.094341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.094493s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001537s ]
+
+[ 2016-06-30T08:50:25+08:00 ] 127.0.0.1 /Admin-Login-login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001201s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000923s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011015s ]
+
+[ 2016-06-30T08:50:26+08:00 ] 127.0.0.1 /Admin-Login-captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001354s ]
+
+[ 2016-06-30T08:50:44+08:00 ] 127.0.0.1 /Admin-Login-login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0969s ]
+SQL: SELECT * FROM `it_admin` WHERE ( admin_name = 'admin' ) LIMIT 1   [ RunTime:0.0242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000914s ]
+
+[ 2016-06-30T08:50:45+08:00 ] 127.0.0.1 /Admin-Index-index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2016-06-30T08:50:45+08:00 ] 127.0.0.1 /Admin-Index-top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001923s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000329s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001917s ]
+
+[ 2016-06-30T08:50:45+08:00 ] 127.0.0.1 /Admin-Index-drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003129s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000634s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005734s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005901s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007123s ]
+
+[ 2016-06-30T08:50:45+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0062s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0209s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+
+[ 2016-06-30T08:50:45+08:00 ] 127.0.0.1 /Admin-Index-main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001860s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000836s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001208s ]
+
+[ 2016-06-30T08:50:56+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001183s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0090s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0012s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0008s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+
+[ 2016-06-30T08:51:05+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001029s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0055s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+
+[ 2016-06-30T08:51:06+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0063s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0007s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+
+[ 2016-06-30T08:51:06+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0047s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+
+[ 2016-06-30T08:51:07+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0060s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+
+[ 2016-06-30T08:51:07+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0061s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0012s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0016s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+
+[ 2016-06-30T08:51:08+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0053s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+
+[ 2016-06-30T08:51:45+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0061s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0014s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+
+[ 2016-06-30T08:55:00+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0059s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0005s ]
+
+[ 2016-06-30T08:56:50+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0074s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0007s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0007s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+
+[ 2016-06-30T08:56:51+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0067s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0008s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0006s ]
+
+[ 2016-06-30T08:56:54+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001546s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0058s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+
+[ 2016-06-30T08:58:07+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0056s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+
+[ 2016-06-30T08:58:08+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0054s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0005s ]
+
+[ 2016-06-30T08:58:09+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001527s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0066s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0007s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+
+[ 2016-06-30T09:59:50+08:00 ] 127.0.0.1 /Admin-Privilege-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001748s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001846s ]
+
+[ 2016-06-30T10:00:20+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0567s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+
+[ 2016-06-30T10:01:59+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001979s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0072s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+
+[ 2016-06-30T10:02:00+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001650s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0076s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=2 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=3 [ RunTime:0.0004s ]
+
+[ 2016-06-30T10:05:13+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001781s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0078s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0039s ]
+
+[ 2016-06-30T12:31:57+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001825s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.3891s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0415s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0009s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0009s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0008s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-06-30T12:32:38+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0046s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+
+[ 2016-06-30T12:34:31+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0053s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0007s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000293s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 123 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 123 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 123 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 123 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001725s ]
+
+[ 2016-06-30T12:35:32+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002770s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0054s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0014s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001084s ]
+
+[ 2016-06-30T12:35:33+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0046s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001104s ]
+
+[ 2016-06-30T12:35:34+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0052s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2016-06-30T12:35:35+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0046s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000984s ]
+
+[ 2016-06-30T12:36:43+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001217s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0049s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0004s ]
+
+[ 2016-06-30T12:38:19+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0047s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:38:38+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0048s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024261s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001096s ]
+
+[ 2016-06-30T12:38:40+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0046s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010469s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2016-06-30T12:38:41+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0047s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012432s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000997s ]
+
+[ 2016-06-30T12:38:41+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0046s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011117s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001099s ]
+
+[ 2016-06-30T12:38:42+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010513s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001009s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001120s ]
+
+[ 2016-06-30T12:38:43+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0282s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001245s ]
+
+[ 2016-06-30T12:39:20+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001535s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0051s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001126s ]
+
+[ 2016-06-30T12:39:21+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0073s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [8] Undefined index: priv_name E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 124 行.
+NOTIC: [8] Undefined index: child E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2016-06-30T12:39:45+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0044s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:40:38+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0044s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:40:40+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0054s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:40:40+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0048s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:41:00+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:41:23+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0072s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0007s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0016s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:42:05+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:44:24+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0046s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0046s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:44:26+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0044s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:44:43+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0045s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+
+[ 2016-06-30T12:44:55+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0094s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0051s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001416s ]
+
+[ 2016-06-30T13:04:49+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0265s ]
+SQL: select c.* from it_admin_role as a left join it_role_privilege as b on a.role_id = b.role_id left join it_privilege as c on b.priv_id = c.id where c.parent_id=0 and a.admin_id = 5 [ RunTime:0.0141s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id = 5' at line 1
+
+[ 2016-06-30T13:07:53+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002266s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0077s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=5 [ RunTime:0.0013s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=5' at line 1
+
+[ 2016-06-30T13:07:54+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=5 [ RunTime:0.0005s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=5' at line 1
+
+[ 2016-06-30T13:07:55+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=5 [ RunTime:0.0005s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=5' at line 1
+
+[ 2016-06-30T13:07:55+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0050s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=5 [ RunTime:0.0006s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=5' at line 1
+
+[ 2016-06-30T13:07:55+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=5 [ RunTime:0.0005s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=5' at line 1
+
+[ 2016-06-30T13:08:35+08:00 ] 127.0.0.1 /Admin-Privilege-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001206s ]
+
+[ 2016-06-30T13:09:33+08:00 ] 127.0.0.1 /Admin-Privilege-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001214s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001207s ]
+
+[ 2016-06-30T13:09:34+08:00 ] 127.0.0.1 /Admin-Privilege-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001131s ]
+
+[ 2016-06-30T13:09:35+08:00 ] 127.0.0.1 /Admin-Privilege-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012215s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001574s ]
+
+[ 2016-06-30T13:10:00+08:00 ] 127.0.0.1 /Admin-index-index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000359s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002504s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004365s ]
+
+[ 2016-06-30T13:10:00+08:00 ] 127.0.0.1 /Admin-Index-top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014767s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001071s ]
+
+[ 2016-06-30T13:10:00+08:00 ] 127.0.0.1 /Admin-Index-drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010815s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2016-06-30T13:10:00+08:00 ] 127.0.0.1 /Admin-Index-main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054048s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001168s ]
+
+[ 2016-06-30T13:10:01+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001364s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0047s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0096s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0003s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000954s ]
+
+[ 2016-06-30T13:10:05+08:00 ] 127.0.0.1 /Admin-Role-add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2016-06-30T13:10:29+08:00 ] 127.0.0.1 /Admin-Role-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001348s ]
+SQL: SHOW COLUMNS FROM `it_role` [ RunTime:0.0255s ]
+SQL: SELECT a.*,group_concat(c.priv_name)as privnames FROM `it_role` a left join it_role_privilege as b on a.id=b.role_id left join it_privilege as c on b.priv_id=c.id  GROUP BY a.id  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000995s ]
+
+[ 2016-06-30T13:10:56+08:00 ] 127.0.0.1 /Admin-Privilege-add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064048s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001295s ]
+
+[ 2016-06-30T13:11:34+08:00 ] 127.0.0.1 /Admin-Privilege-add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0048s ]
+SQL: INSERT INTO `it_privilege` (`priv_name`,`parent_id`,`module_name`,`controller_name`,`action_name`) VALUES ('管理员管理','0','Admin','Admin','add') [ RunTime:0.0432s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-06-30T13:11:35+08:00 ] 127.0.0.1 /Admin-Privilege-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2016-06-30T13:12:36+08:00 ] 127.0.0.1 /Admin-index-index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008923s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000876s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000960s ]
+
+[ 2016-06-30T13:12:36+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002764s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0084s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0075s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0024s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0010s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0019s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0004s ]
+SQL: select * from it_privilege where parent_id=13 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001134s ]
+
+[ 2016-06-30T13:12:36+08:00 ] 127.0.0.1 /Admin-Index-drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001981s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011973s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001181s ]
+
+[ 2016-06-30T13:12:36+08:00 ] 127.0.0.1 /Admin-Index-top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068553s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2016-06-30T13:12:36+08:00 ] 127.0.0.1 /Admin-Index-main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001974s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000328s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001824s ]
+
+[ 2016-06-30T13:12:39+08:00 ] 127.0.0.1 /Admin-Privilege-add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012169s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001109s ]
+
+[ 2016-06-30T13:13:22+08:00 ] 127.0.0.1 /Admin-Privilege-add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0046s ]
+SQL: INSERT INTO `it_privilege` (`priv_name`,`parent_id`,`module_name`,`controller_name`,`action_name`) VALUES ('管理员添加','13','Admin','Admin','add') [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-06-30T13:13:24+08:00 ] 127.0.0.1 /Admin-Privilege-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011299s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000961s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001064s ]
+
+[ 2016-06-30T13:13:34+08:00 ] 127.0.0.1 /Admin-Privilege-add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010833s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2016-06-30T13:14:11+08:00 ] 127.0.0.1 /Admin-Privilege-add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0046s ]
+SQL: INSERT INTO `it_privilege` (`priv_name`,`parent_id`,`module_name`,`controller_name`,`action_name`) VALUES ('管理员列表','13','Admin','Admin','lst') [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-06-30T13:14:12+08:00 ] 127.0.0.1 /Admin-Privilege-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001114s ]
+
+[ 2016-06-30T13:14:25+08:00 ] 127.0.0.1 /Admin-index-index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009204s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000993s ]
+
+[ 2016-06-30T13:14:25+08:00 ] 127.0.0.1 /Admin-Index-top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005917s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000304s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001142s ]
+
+[ 2016-06-30T13:14:25+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001743s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0079s ]
+SQL: select * from it_privilege where parent_id=0 [ RunTime:0.0008s ]
+SQL: select * from it_privilege where parent_id=1 [ RunTime:0.0010s ]
+SQL: select * from it_privilege where parent_id=4 [ RunTime:0.0006s ]
+SQL: select * from it_privilege where parent_id=7 [ RunTime:0.0008s ]
+SQL: select * from it_privilege where parent_id=10 [ RunTime:0.0005s ]
+SQL: select * from it_privilege where parent_id=13 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001165s ]
+
+[ 2016-06-30T13:14:25+08:00 ] 127.0.0.1 /Admin-Index-drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001646s ]
+
+[ 2016-06-30T13:14:25+08:00 ] 127.0.0.1 /Admin-Index-main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001487s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000373s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018278s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001206s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001336s ]
+
+[ 2016-06-30T13:14:34+08:00 ] 127.0.0.1 /Admin-Admin-add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+SQL: SHOW COLUMNS FROM `it_role` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `it_role`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053237s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001116s ]
+
+[ 2016-06-30T13:15:16+08:00 ] 127.0.0.1 /Admin-Role-add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: SHOW COLUMNS FROM `it_privilege` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `it_privilege`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012117s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2016-06-30T13:15:51+08:00 ] 127.0.0.1 /Admin-Role-add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+SQL: SHOW COLUMNS FROM `it_role` [ RunTime:0.0048s ]
+SQL: INSERT INTO `it_role` (`role_name`) VALUES ('测试管理员') [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `it_role_privilege` [ RunTime:0.0042s ]
+SQL: INSERT INTO `it_role_privilege` (`role_id`,`priv_id`) VALUES ('8','1') [ RunTime:0.0003s ]
+SQL: INSERT INTO `it_role_privilege` (`role_id`,`priv_id`) VALUES ('8','2') [ RunTime:0.0002s ]
+SQL: INSERT INTO `it_role_privilege` (`role_id`,`priv_id`) VALUES ('8','3') [ RunTime:0.0002s ]
+SQL: INSERT INTO `it_role_privilege` (`role_id`,`priv_id`) VALUES ('8','7') [ RunTime:0.0002s ]
+SQL: INSERT INTO `it_role_privilege` (`role_id`,`priv_id`) VALUES ('8','8') [ RunTime:0.0005s ]
+SQL: INSERT INTO `it_role_privilege` (`role_id`,`priv_id`) VALUES ('8','9') [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-06-30T13:15:52+08:00 ] 127.0.0.1 /Admin-Role-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `it_role` [ RunTime:0.0044s ]
+SQL: SELECT a.*,group_concat(c.priv_name)as privnames FROM `it_role` a left join it_role_privilege as b on a.id=b.role_id left join it_privilege as c on b.priv_id=c.id  GROUP BY a.id  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001041s ]
+
+[ 2016-06-30T13:16:08+08:00 ] 127.0.0.1 /Admin-Admin-add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+SQL: SHOW COLUMNS FROM `it_role` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `it_role`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2016-06-30T13:16:23+08:00 ] 127.0.0.1 /Admin-Admin-add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: INSERT INTO `it_admin` (`admin_name`,`password`,`salt`) VALUES ('测测','a2f4b56f45fca3f3579d167533b65762','781b1e') [ RunTime:0.0005s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\shangcheng\tp\App\Admin\Model\AdminModel.class.php 第 60 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-06-30T13:16:24+08:00 ] 127.0.0.1 /Admin-Admin-lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001227s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: SELECT a.*,group_concat(c.role_name) as rolenames FROM `it_admin` a left join it_admin_role as b on a.id=b.admin_id left join it_role as c on b.role_id = c.id  WHERE ( a.id!=1 ) GROUP BY a.id  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001053s ]
+
+[ 2016-06-30T13:17:27+08:00 ] 127.0.0.1 /Admin-index-index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2016-06-30T13:17:27+08:00 ] 127.0.0.1 /Admin-Index-top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000316s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001594s ]
+
+[ 2016-06-30T13:17:27+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001807s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0074s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017191s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002319s ]
+
+[ 2016-06-30T13:17:27+08:00 ] 127.0.0.1 /Admin-Index-main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002467s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2016-06-30T13:17:27+08:00 ] 127.0.0.1 /Admin-Index-drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001945s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001191s ]
+
+[ 2016-06-30T13:21:24+08:00 ] 127.0.0.1 /Admin-index-index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001130s ]
+
+[ 2016-06-30T13:21:24+08:00 ] 127.0.0.1 /Admin-Index-top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001579s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001110s ]
+
+[ 2016-06-30T13:21:24+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002413s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0327s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0006s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:21:24+08:00 ] 127.0.0.1 /Admin-Index-drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001894s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001200s ]
+
+[ 2016-06-30T13:21:24+08:00 ] 127.0.0.1 /Admin-Index-main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001805s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000353s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001600s ]
+
+[ 2016-06-30T13:25:01+08:00 ] 127.0.0.1 /Admin-index-index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001309s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001109s ]
+
+[ 2016-06-30T13:25:01+08:00 ] 127.0.0.1 /Admin-Index-top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002575s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001515s ]
+
+[ 2016-06-30T13:25:01+08:00 ] 127.0.0.1 /Admin-Index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001892s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0613s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0006s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:25:01+08:00 ] 127.0.0.1 /Admin-Index-drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001803s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001700s ]
+
+[ 2016-06-30T13:25:01+08:00 ] 127.0.0.1 /Admin-Index-main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002317s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001138s ]
+
+[ 2016-06-30T13:25:08+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0072s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0009s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:26:21+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0048s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0005s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:26:22+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0048s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0005s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:26:22+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0052s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0006s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:26:23+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0047s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0006s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:26:23+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0060s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0006s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:26:23+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0045s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0005s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:27:19+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0046s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10' at line 1
+
+[ 2016-06-30T13:27:22+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0046s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10' at line 1
+
+[ 2016-06-30T13:27:52+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001454s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0061s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.admin_id' in 'where clause'
+
+[ 2016-06-30T13:28:12+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0054s ]
+SQL: select c.* from it_admin_role  a left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0006s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:32:04+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0595s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id       where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0016s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id       where c.parent_id=1 and a.admin_id=10 [ RunTime:0.0012s ]
+SQL: select c.* from it_admin_role  a  left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id       where c.parent_id=7 and a.admin_id=10 [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019376s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019564s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001522s ]
+
+[ 2016-06-30T13:35:48+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0075s ]
+SQL: select c.* from it_admin_role a left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id  where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0008s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.admin_id=10' at line 1
+
+[ 2016-06-30T13:36:29+08:00 ] 127.0.0.1 /Admin-index-left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001989s ]
+SQL: SHOW COLUMNS FROM `it_admin` [ RunTime:0.0054s ]
+SQL: select c.* from it_admin_role a left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id  where c.parent_id=0 and a.admin_id=10 [ RunTime:0.0007s ]
+SQL: select c.* from it_admin_role a left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id  where c.parent_id=1 and a.admin_id=10 [ RunTime:0.0005s ]
+SQL: select c.* from it_admin_role a left join it_role_privilege b on a.role_id=b.role_id left join it_privilege c on b.priv_id=c.id  where c.parent_id=7 and a.admin_id=10 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010668s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010785s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001126s ]
+
